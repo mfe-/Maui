@@ -20,7 +20,7 @@ https://learn.microsoft.com/dotnet/communitytoolkit/maui/get-started
 
 ## Getting Started
 
-In order to use the .NET MAUI Community Toolkit you need to call the extension method in your `MauiProgram.cs` file as follows:
+In order to use the .NET MAUI Community Toolkit you need to install the nuget `dotnet add package CommunityToolkit.Maui` and call the extension method in your `MauiProgram.cs` file as follows:
 
 ```csharp
 using CommunityToolkit.Maui;
